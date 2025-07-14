@@ -28,7 +28,7 @@ Aracı çalıştırmak için bilgisayarınızda **Python 3.x**'in kurulu olması
     ```bash
     pip install requests
     ```
-    *(Eğer projen başka kütüphaneler de kullanıyorsa, onları da `pip install kütüphane_adı` şeklinde yüklemen gerekir.)*
+   
 
 ### Aracı Çalıştırma
 
