@@ -1,6 +1,6 @@
 # Site Admin Paneli Bulma Aracı
 
-[!http://googleusercontent.com/image_generation_content/0](https://github.com/esebihi/Esebihi-AdminPanelFinder)
+(https://github.com/esebihi/Esebihi-AdminPanelFinder)
 
 Bu Python projesi, web sitelerinin **admin paneli giriş sayfalarını otomatize bir şekilde bulmak** için tasarlanmıştır. Çeşitli yaygın dizinleri ve alt dizinleri deneyerek olası admin paneli URL'lerini hızlıca tespit eder.
 
