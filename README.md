@@ -19,11 +19,11 @@ Aracı çalıştırmak için bilgisayarınızda **Python 3.x**'in kurulu olması
 1.  **Depoyu Klonlayın:** İlk olarak, proje dosyalarını bilgisayarınıza indirin. Terminal veya komut istemcinizi açarak aşağıdaki komutu çalıştırın:
 
     ```bash
-    git clone [https://github.com/esebihi/Esebihi-AdminPanelFinder.git](https://github.com/esebihi/Esebihi-AdminPanelFinder.git)
+    git clone https://github.com/esebihi/Esebihi-AdminPanelFinder
     cd Esebihi-AdminPanelFinder
     ```
 
-2.  **Gerekli Kütüphaneleri Yükleyin:** Proje, web istekleri için büyük ihtimalle **`requests`** kütüphanesini kullanıyordur. Bu kütüphaneyi yüklemek için aşağıdaki komutu çalıştırın:
+2.  **Gerekli Kütüphaneleri Yükleyin:** Kütüphaneyi yüklemek için aşağıdaki komutu çalıştırın:
 
     ```bash
     pip install requests
@@ -32,7 +32,4 @@ Aracı çalıştırmak için bilgisayarınızda **Python 3.x**'in kurulu olması
 
 ### Aracı Çalıştırma
 
-Kütüphaneleri yükledikten sonra, aracı çalıştırmaya hazırsın! Terminal veya komut istemcinizde aşağıdaki komutu kullanarak admin paneli aramasını başlat:
-
-```bash
-python admin_finder.py <hedef_url>
+Kütüphaneleri yükledikten sonra, aracı çalıştırmaya hazırsın!
